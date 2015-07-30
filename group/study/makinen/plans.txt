@@ -1,0 +1,4 @@
+Plan is to work through the following sections of Veli Makinens book
+
+Chapter 3 (exercises 3,8,9)
+Chapter 8 (exercises 1,2,3,7,8,9,17,18,20)

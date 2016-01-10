@@ -1,0 +1,216 @@
+$ g++ vector.cpp
+$ a.out
+---------------------
+Vector Implementation in Stl
+ 
+---------------------
+1.Insert Element into the Vector
+2.Delete Last Element of the Vector
+3.Size of the Vector
+4.Display by Index
+5.Dislplay by Iterator
+6.Clear the Vector
+7.Exit
+Enter your Choice: 1
+Enter value to be inserted: 4
+ 
+---------------------
+Vector Implementation in Stl
+ 
+---------------------
+1.Insert Element into the Vector
+2.Delete Last Element of the Vector
+3.Size of the Vector
+4.Display by Index
+5.Dislplay by Iterator
+6.Clear the Vector
+7.Exit
+Enter your Choice: 1
+Enter value to be inserted: 6
+ 
+---------------------
+Vector Implementation in Stl
+ 
+---------------------
+1.Insert Element into the Vector
+2.Delete Last Element of the Vector
+3.Size of the Vector
+4.Display by Index
+5.Dislplay by Iterator
+6.Clear the Vector
+7.Exit
+Enter your Choice: 1
+Enter value to be inserted: 3
+ 
+---------------------
+Vector Implementation in Stl
+ 
+---------------------
+1.Insert Element into the Vector
+2.Delete Last Element of the Vector
+3.Size of the Vector
+4.Display by Index
+5.Dislplay by Iterator
+6.Clear the Vector
+7.Exit
+Enter your Choice: 1
+Enter value to be inserted: 8
+ 
+---------------------
+Vector Implementation in Stl
+ 
+---------------------
+1.Insert Element into the Vector
+2.Delete Last Element of the Vector
+3.Size of the Vector
+4.Display by Index
+5.Dislplay by Iterator
+6.Clear the Vector
+7.Exit
+Enter your Choice: 1
+Enter value to be inserted: 9
+ 
+---------------------
+Vector Implementation in Stl
+ 
+---------------------
+1.Insert Element into the Vector
+2.Delete Last Element of the Vector
+3.Size of the Vector
+4.Display by Index
+5.Dislplay by Iterator
+6.Clear the Vector
+7.Exit
+Enter your Choice: 1
+Enter value to be inserted: 2
+ 
+---------------------
+Vector Implementation in Stl
+ 
+---------------------
+1.Insert Element into the Vector
+2.Delete Last Element of the Vector
+3.Size of the Vector
+4.Display by Index
+5.Dislplay by Iterator
+6.Clear the Vector
+7.Exit
+Enter your Choice: 3
+Size of Vector: 6
+ 
+---------------------
+Vector Implementation in Stl
+ 
+---------------------
+1.Insert Element into the Vector
+2.Delete Last Element of the Vector
+3.Size of the Vector
+4.Display by Index
+5.Dislplay by Iterator
+6.Clear the Vector
+7.Exit
+Enter your Choice: 4
+Displaying Vector by Index: 4 6 3 8 9 2 
+ 
+---------------------
+Vector Implementation in Stl
+ 
+---------------------
+1.Insert Element into the Vector
+2.Delete Last Element of the Vector
+3.Size of the Vector
+4.Display by Index
+5.Dislplay by Iterator
+6.Clear the Vector
+7.Exit
+Enter your Choice: 2
+Delete Last Element Inserted:
+ 
+---------------------
+Vector Implementation in Stl
+ 
+---------------------
+1.Insert Element into the Vector
+2.Delete Last Element of the Vector
+3.Size of the Vector
+4.Display by Index
+5.Dislplay by Iterator
+6.Clear the Vector
+7.Exit
+Enter your Choice: 3
+Size of Vector: 5
+ 
+---------------------
+Vector Implementation in Stl
+ 
+---------------------
+1.Insert Element into the Vector
+2.Delete Last Element of the Vector
+3.Size of the Vector
+4.Display by Index
+5.Dislplay by Iterator
+6.Clear the Vector
+7.Exit
+Enter your Choice: 5
+Displaying Vector by Iterator: 4 6 3 8 9 
+ 
+---------------------
+Vector Implementation in Stl
+ 
+---------------------
+1.Insert Element into the Vector
+2.Delete Last Element of the Vector
+3.Size of the Vector
+4.Display by Index
+5.Dislplay by Iterator
+6.Clear the Vector
+7.Exit
+Enter your Choice: 4
+Displaying Vector by Index: 4 6 3 8 9 
+ 
+---------------------
+Vector Implementation in Stl
+ 
+---------------------
+1.Insert Element into the Vector
+2.Delete Last Element of the Vector
+3.Size of the Vector
+4.Display by Index
+5.Dislplay by Iterator
+6.Clear the Vector
+7.Exit
+Enter your Choice: 6
+Vector Cleared
+ 
+---------------------
+Vector Implementation in Stl
+ 
+---------------------
+1.Insert Element into the Vector
+2.Delete Last Element of the Vector
+3.Size of the Vector
+4.Display by Index
+5.Dislplay by Iterator
+6.Clear the Vector
+7.Exit
+Enter your Choice: 3
+Size of Vector: 0
+ 
+---------------------
+Vector Implementation in Stl
+ 
+---------------------
+ 
+1.Insert Element into the Vector
+2.Delete Last Element of the Vector
+3.Size of the Vector
+4.Display by Index
+5.Dislplay by Iterator
+6.Clear the Vector
+7.Exit
+Enter your Choice: 7
+ 
+ 
+------------------
+(program exited with code: 1)
+Press return to continue

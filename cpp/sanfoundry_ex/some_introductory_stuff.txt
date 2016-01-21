@@ -1,0 +1,75 @@
+
+Intro to C++ for Rachel
+
+
+*** Exercises
+
+
+1. Look at this program to calculate factorial
+http://www.sanfoundry.com/cpp-program-find-factorial-recursion/
+
+Notice: what is #include, and "cin" and "cout" for entry of data and printing out
+        Look up "namespace"
+
+Just FYI - same program without recursion
+http://www.sanfoundry.com/cpp-program-find-factorial-number-iteration/
+
+
+2. Look at this example for adding things to a vector
+http://www.sanfoundry.com/cpp-program-implement-vector-stl/
+
+Note use of << and endl. 
+Note push_back to add to vector.
+
+
+3. Look at this implementation of map
+cpp/sanfoundry_ex/stl/map/map.cpp
+which I got from
+http://www.sanfoundry.com/cpp-program-implement-map-stl/
+
+Find the bug in the following. To see the bug run it thus
+g++ map.cpp
+./a.out
+
+It says
+
+---------------------
+Map Implementation in Stl
+
+---------------------
+1.Insert Element into the Map
+2.Delete Element of the Map
+3.Size of the Map
+4.Find Element at a key in Map
+5.Dislplay by Iterator
+6.Count Elements at a specific key
+7.Exit
+Enter your Choice: 
+
+
+Choose option 1.
+
+It says
+Enter value to be inserted: 
+
+enter 12
+
+
+
+Then it says
+Enter the key: 
+
+enter zam
+
+ - it enters an infinite loop...
+
+
+
+
+
+
+
+2. Get your head around this implementation of Knuth-Morris-Pratt
+http://www.sanfoundry.com/cpp-program-implement-kruth-morris-patt-algorithm-kmp/
+
+
